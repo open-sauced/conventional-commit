@@ -63,6 +63,7 @@ If you want to ensure local-only usage:
 }
 ```
 
+
 ## 🤝 Contributing
 
 We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.opensauced.pizza/) for guidelines about how to proceed.
